@@ -1,0 +1,8 @@
+﻿{
+	"races":	[{ "name":"Human", "classes":["Warrior", "DeathKnight", "Mage"] },
+				{ "name":"Gnome", "classes":["Warrior", "DeathKnight", "Mage"] },
+				{ "name":"Worgen", "classes":["Warrior", "DeathKnight", "Mage", "Druid"] },
+				{ "name":"Orc", "classes":["Warrior", "DeathKnight", "Mage"] },
+				{ "name":"BloodElf", "classes":["Warrior", "DeathKnight", "Mage"] },
+				{ "name":"Tauren", "classes":["Warrior", "DeathKnight", "Mage", "Druid"] }]
+}

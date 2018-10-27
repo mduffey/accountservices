@@ -1,0 +1,5 @@
+﻿{
+	"factions": [{ "name":"Alliance", "races": ["Human", "Gnome", "Worgen"] },
+				{ "name":"Horde", "races": ["Orc", "BloodElf", "Tauren"] }]
+}
+	
