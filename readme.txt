@@ -8,4 +8,4 @@ There are some things I'd change, WCF aside. The worst one is the use of dynamic
 
 Also the deep embedding of tests into the core service project. I think I had it in mind that if this were a 'real' thing, I'd probably build out a separate, proper hosting project and simply utilize the library, which has all the real functionality anyways, and keep the Host project around as an integration test.
 
-There's also a concern of trusting input from a client, but I think that was an intentional oversight; the parameters of the sample application probably specifically called out that we weren't supposed to handle that particular challenge.
+There's also a concern of trusting input from a client (the input is sanity-tested, but the client can claim to be whatever level they want), but I think that was an intentional oversight; the parameters of the sample application probably specifically called out that we weren't supposed to handle that particular challenge.
